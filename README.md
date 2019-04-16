@@ -7,7 +7,7 @@
 ## 灵感来自https://github.com/Binaryify/NeteaseCloudMusicApi
    UI样式模拟网易云app V5版本
 
-# 功能未完善
+ 功能有待完善:
 1.推荐歌单
 2.搜索单曲
 3.搜索建议
@@ -16,7 +16,6 @@
 6.播放器控件
 7.歌词滚动
 8.进度条
-未完待续~
 
 ## Project setup
 ```
@@ -27,6 +26,5 @@ npm install
 ```
 npm run serve
 
-## 效果图展示:
 
 
