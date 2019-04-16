@@ -2,9 +2,10 @@
 
 
 ### 感谢https://github.com/Binaryify/NeteaseCloudMusicApi 提供的Api
-### 运行此项目需要前往https://github.com/Binaryify/NeteaseCloudMusicApi 下载运行其api服务器
 
-## 灵感来自https://github.com/Binaryify/NeteaseCloudMusicApi
+## 运行此项目需要前往https://github.com/Binaryify/NeteaseCloudMusicApi 下载运行其api服务器
+
+# 灵感来自https://github.com/Binaryify/NeteaseCloudMusicApi
    UI样式模拟网易云app V5版本
 
  功能有待完善:
@@ -17,12 +18,12 @@
 7.歌词滚动
 8.进度条
 
-## Project setup
+# Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+# Compiles and hot-reloads for development
 ```
 npm run serve
 
